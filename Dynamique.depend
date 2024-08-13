@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1450177458 source:e:\1a tel1\programmantion procédurale\mini projet c\dynamique1\dynamique\affichage.c
+	<stdio.h>
+	<stdlib.h>
+	"entete.h"
+	<string.h>
+
+1450262851 e:\1a tel1\programmantion procédurale\mini projet c\dynamique1\dynamique\entete.h
+
+1450262810 source:e:\1a tel1\programmantion procédurale\mini projet c\dynamique1\dynamique\main.c
+	<stdio.h>
+	<stdlib.h>
+	"entete.h"
+	<string.h>
+	<conio.h>
+
+1450262810 source:e:\1a tel1\programmantion procédurale\mini projet c\dynamique1\dynamique\nouveauarticle.c
+	<stdio.h>
+	<stdlib.h>
+	"entete.h"
+	<string.h>
+
+1450248351 source:e:\1a tel1\programmantion procédurale\mini projet c\dynamique1\dynamique\ajouter.c
+	<stdio.h>
+	<stdlib.h>
+	"entete.h"
+	<string.h>
+
+1450262851 source:e:\1a tel1\programmantion procédurale\mini projet c\dynamique1\dynamique\miseajours.c
+	<stdio.h>
+	<stdlib.h>
+	"entete.h"
+	<string.h>
+	<conio.h>
+
+1450177458 source:e:\1a tel1\programmantion procédurale\mini projet c\dynamique1\dynamique\supprimer.c
+	<stdio.h>
+	<stdlib.h>
+	"entete.h"
+	<string.h>
+	<conio.h>
+
+1450262828 source:e:\1a tel1\programmantion procédurale\mini projet c\dynamique1\dynamique\commentaire.c
+	<stdio.h>
+	<stdlib.h>
+	"entete.h"
+	<string.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+
+1450262810 source:e:\1a tel1\programmantion procédurale\mini projet c\dynamique1\dynamique\sauvegarder.c
+	<stdio.h>
+	<stdlib.h>
+	"entete.h"
+	<string.h>
+	<conio.h>
+
+1450177458 source:e:\1a tel1\programmantion procédurale\mini projet c\dynamique1\dynamique\charger.c
+	<stdio.h>
+	<stdlib.h>
+	"entete.h"
+	<string.h>
+	<conio.h>
+
+1450180268 source:e:\1a tel1\programmantion procédurale\mini projet c\dynamique1\dynamique\time.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<windows.h>
+	<string.h>
+
